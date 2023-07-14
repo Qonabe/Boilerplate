@@ -1,13 +1,13 @@
 # Laravel
 
-## Docker
-
-Working on it
-
 ## Prerequisite
+
+Environment Setup: Github
 
 [Composer](https://getcomposer.org/)
 [Node and NPM](https://nodejs.org/en)
+
+TODO:Add PATH edit
 
 ## Installation
 
