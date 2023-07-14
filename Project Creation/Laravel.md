@@ -31,7 +31,11 @@ laravel new example-app
 
 ## Run
 
-`php artisan serve`
+```
+php artisan serve
+npm run dev
+```
+
 
 ## Addons
 
@@ -43,5 +47,5 @@ laravel new example-app
 
 ### Adding PHP Prettier to the project
 
-- `npm install prettier@2.8.8 @prettier/plugin-php`
+- `npm install --save-dev prettier@2.8.8 @prettier/plugin-php`
 - (Restart code editor)
