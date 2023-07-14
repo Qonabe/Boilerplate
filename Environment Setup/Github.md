@@ -4,7 +4,7 @@
 
 [Git Bash](https://gitforwindows.org/)
 
-# SSH
+# SSH Setup
 
 Open Git Bash
 
